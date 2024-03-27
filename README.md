@@ -1,0 +1,2 @@
+# OpenDetect
+ OpenDetect is a powerful username discovery tool designed to assist security professionals, researchers, and users in uncovering usernames associated with various online platforms and websites. With OpenDetect, users can conduct comprehensive searches across a wide range of websites, enabling them to gather valuable information for security assessments, investigations, and research purposes.
